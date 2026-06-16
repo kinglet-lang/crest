@@ -1,0 +1,34 @@
+{
+  "name": "crest",
+  "displayName": "Crest",
+  "description": "A teal-and-amber color theme for VS Code, drawn from the Kinglet palette.",
+  "version": "0.1.0",
+  "publisher": "kinglet-lang",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kinglet-lang/crest"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "dark",
+    "kinglet",
+    "teal"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Crest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/crest-color-theme.json"
+      }
+    ]
+  }
+}
