@@ -4,6 +4,7 @@
   "description": "A teal-and-amber color theme for VS Code, drawn from the Kinglet palette.",
   "version": "0.1.0",
   "publisher": "kinglet-lang",
+  "author": "Kinglet Language Developers",
   "license": "MIT",
   "repository": {
     "type": "git",
