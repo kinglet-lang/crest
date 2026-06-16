@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kinglet-lang/crest/main/image/icon.png" width="96" alt="Crest">
+  <img src="image/icon.png" width="96" alt="Crest">
 </p>
 <h1 align="center">Crest</h1>
 
