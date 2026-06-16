@@ -1,7 +1,7 @@
 {
   "name": "crest",
   "displayName": "Crest",
-  "description": "A teal-and-amber color theme for VS Code, drawn from the Kinglet palette.",
+  "description": "A dark color theme for VS Code, drawn from the Kinglet palette — teal and cream with warm amber accents.",
   "version": "0.1.0",
   "publisher": "kinglet-lang",
   "author": "Kinglet Language Developers",
