@@ -13,6 +13,10 @@ teal-and-cream plumage with warm amber accents.
 
 </div>
 
+<p align="center">
+  <img src="image/example.png" width="800" alt="Crest theme preview">
+</p>
+
 ## Palette
 
 A cool teal-slate base (warmed One Dark Pro neutrals shifted toward teal)
