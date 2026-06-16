@@ -3,23 +3,30 @@
 </p>
 <h1 align="center">Crest</h1>
 
-<p align="center">A dark color theme for VS Code, drawn from the <a href="https://github.com/kinglet-lang/kinglet">Kinglet</a> palette — teal-blue plumage with a bright amber crest.</p>
+<p align="center">A dark color theme for VS Code, drawn from the <a href="https://github.com/kinglet-lang/kinglet">Kinglet</a> palette — teal-and-cream plumage with warm amber accents.</p>
 
 ---
 
 ## Palette
 
-| Role | Color | |
-|------|-------|---|
-| Primary (bright blue) | `#3CABFA` | keywords, tags |
-| Primary (bright cyan) | `#12D3DA` | types, declarations |
-| Teal | `#1390A6` | accents, selection |
-| Deep blue | `#00618C` | status bar, buttons |
-| Accent (amber) | `#F9A21F` | functions, cursor, badges |
-| Accent (orange) | `#FE7C01` | numbers, constants, enum members |
-| String green | `#7FD6A0` | strings |
-| Cream | `#FEF0DF` | highlights, active foreground |
-| Background | `#0F1C22` | deep teal-navy editor base |
+A cool teal-slate base (warmed One Dark Pro neutrals shifted toward teal)
+carrying Kinglet's brand teal, blue, and amber across the syntax.
+
+| Role | Color | Used for |
+|------|-------|----------|
+| Background | `#222B33` | teal-slate editor base |
+| Default text | `#ABB2BF` | variables, body text |
+| Keyword | `#61AFEF` | keywords, control flow |
+| Type / storage | `#56B6C2` | types, storage, namespaces, links |
+| Type name | `#5FC0C8` | classes, structs, enums, interfaces |
+| Property | `#9FC3C9` | properties, type parameters |
+| Brand teal | `#2F7E88` | buttons, badges, remote, progress |
+| Function | `#DBA45E` | functions, cursor, active tab, debug bar |
+| Number / attribute | `#D19A66` | numbers, language constants, attributes |
+| Constant (readonly) | `#E5C07B` | const values |
+| String | `#98C379` | strings, links |
+| Tag / invalid | `#E06C75` | markup tags, invalid |
+| Comment | `#5C6370` | comments (italic) |
 
 ## Install
 
