@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kinglet-lang/crest/main/image/icon.png" width="96" alt="Crest">
+</p>
 <h1 align="center">Crest</h1>
 
 <p align="center">A dark color theme for VS Code, drawn from the <a href="https://github.com/kinglet-lang/kinglet">Kinglet</a> palette — teal-blue plumage with a bright amber crest.</p>
