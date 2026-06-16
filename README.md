@@ -1,12 +1,14 @@
-<img src="image/icon.png" align="left" width="84" hspace="18" vspace="2" alt="Crest">
+<h1 align="center">
+  <img src="image/icon.png" width="66" align="middle" alt="">&nbsp; Crest
+</h1>
 
-# Crest
+<p align="center">
+  <a href="package.json"><img alt="Version" src="https://img.shields.io/badge/version-0.1.0-2f7e88"></a>
+  &nbsp;
+  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-dba45e"></a>
+</p>
 
-[![Version](https://img.shields.io/badge/version-0.1.0-2f7e88)](package.json)&nbsp;[![License](https://img.shields.io/badge/license-MIT-dba45e)](LICENSE)
-
-A dark color theme for VS Code, drawn from the [Kinglet](https://github.com/kinglet-lang/kinglet) palette — teal-and-cream plumage with warm amber accents.
-
-<br clear="left">
+<p align="center">A dark color theme for VS Code, drawn from the <a href="https://github.com/kinglet-lang/kinglet">Kinglet</a> palette — teal-and-cream plumage with warm amber accents.</p>
 
 ---
 
