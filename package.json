@@ -24,6 +24,13 @@
     "kinglet",
     "teal"
   ],
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.9.2"
+  },
   "contributes": {
     "themes": [
       {
