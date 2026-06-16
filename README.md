@@ -14,7 +14,7 @@ carrying Kinglet's brand teal, blue, and amber across the syntax.
 
 | Role | Color | Used for |
 |------|-------|----------|
-| Background | `#222B33` | teal-slate editor base |
+| Background | `#1B242C` | deep teal-slate editor base |
 | Default text | `#ABB2BF` | variables, body text |
 | Keyword | `#61AFEF` | keywords, control flow |
 | Type / storage | `#56B6C2` | types, storage, namespaces, links |
