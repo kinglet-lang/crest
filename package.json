@@ -7,6 +7,10 @@
   "author": "Kinglet Language Developers",
   "license": "MIT",
   "icon": "image/icon.png",
+  "galleryBanner": {
+    "color": "#012E46",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/kinglet-lang/crest"
@@ -25,6 +29,7 @@
     "teal"
   ],
   "scripts": {
+    "export-icons": "bash scripts/export-icons.sh",
     "package": "vsce package",
     "publish": "vsce publish"
   },

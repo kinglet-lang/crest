@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="image/icon.png" width="104" alt="Crest">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="image/icon.png">
+  <img src="image/icon-light.png" width="104" alt="Crest">
+</picture>
 
 ### Crest
 
